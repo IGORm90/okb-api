@@ -1,0 +1,4067 @@
+<s>
+    <c n="Consumer">
+        <s>
+            <c n="BureauScore">
+            </c>
+            <c n="CAIS">
+                <s>
+                    <c n="Consumer">
+                        <s>
+                            <s n="Warranty">
+                            </s>
+                            <a n="accountHolderType">01</a>
+                            <a n="dateOfBirth">19800101</a>
+                            <a n="name1">Марина</a>
+                            <a n="name2">Витальевна</a>
+                            <a n="placeOfBirth">Москва</a>
+                            <a n="primaryID">4507743313</a>
+                            <a n="primaryIDAuthority">УФМС по району Ленинскому г.Москвы</a>
+                            <a n="primaryIDExpiry">
+                            </a>
+                            <a n="primaryIDIssueDate">20050101</a>
+                            <a n="primaryIDPlaceOfIssue">
+                            </a>
+                            <a n="primaryIDType">01</a>
+                            <a n="surname">Кан</a>
+                        </s>
+                    </c>
+                    <s n="SubscriberDetails">
+                        <a n="subscriberID">
+                        </a>
+                        <a n="subscriberName">
+                        </a>
+                        <a n="subscriberSpecStatusStartDate">
+                        </a>
+                        <a n="subscriberSpecialStatus">
+                        </a>
+                        <a n="subscriberType">01</a>
+                    </s>
+                    <a n="accountClosedDate">20151016</a>
+                    <a n="accountPaymentStatus">W</a>
+                    <a n="accountSpecialStatus">08</a>
+                    <a n="applicationNumber">001</a>
+                    <a n="cbrFinanceType">051</a>
+                    <a n="consumerAccountNumber">
+                    </a>
+                    <a n="financeType">05</a>
+                    <a n="fulfilmentDueDate">
+                    </a>
+                    <a n="lastUpdateTS">20170518143707</a>
+                    <a n="legalAccountNumber">001L</a>
+                    <a n="monthOfLastUpdate">20170518</a>
+                    <a n="openDate">
+                    </a>
+                    <a n="paymentSource">
+                    </a>
+                    <a n="reasonForClosure">11</a>
+                    <a n="subscriberComments">
+                    </a>
+                </s>
+                <a n="subscriberComments">
+                    <s>
+                        <c n="Consumer">
+                            <s>
+                                <s n="Warranty">
+                                </s>
+                            </s>
+                        </c>
+                    </s>
+                </a>
+                <s>
+                    <s>
+                        <a n="accountHolderType">01</a>
+                        <a n="dateOfBirth">19800101</a>
+                        <a n="name1">Марина</a>
+                        <a n="name2">Витальевна</a>
+                        <a n="placeOfBirth">Москва</a>
+                        <a n="primaryID">4507743313</a>
+                        <a n="primaryIDAuthority">УФМС по району Ленинскому г.Москвы</a>
+                        <a n="primaryIDExpiry">
+                        </a>
+                        <a n="primaryIDIssueDate">20050101</a>
+                        <a n="primaryIDPlaceOfIssue">
+                        </a>
+                        <a n="primaryIDType">01</a>
+                        <a n="surname">Кан</a>
+                    </s>
+                </s>
+            </c>
+            <s>
+                <s n="SubscriberDetails">
+                    <a n="subscriberID">
+                    </a>
+                    <a n="subscriberName">
+                    </a>
+                    <a n="subscriberSpecStatusStartDate">
+                    </a>
+                    <a n="subscriberSpecialStatus">
+                    </a>
+                    <a n="subscriberType">01</a>
+                </s>
+                <a n="accountClosedDate">20151016</a>
+                <a n="accountPaymentStatus">W</a>
+                <a n="accountSpecialStatus">08</a>
+                <a n="applicationNumber">001</a>
+                <a n="cbrFinanceType">051</a>
+                <a n="consumerAccountNumber">
+                </a>
+                <a n="financeType">05</a>
+                <a n="fulfilmentDueDate">
+                </a>
+                <a n="lastUpdateTS">20151027153322</a>
+                <a n="legalAccountNumber">001L</a>
+                <a n="monthOfLastUpdate">20151016</a>
+                <a n="openDate">
+                </a>
+                <a n="paymentSource">
+                </a>
+                <a n="reasonForClosure">19</a>
+                <a n="subscriberComments">
+                </a>
+            </s>
+            <a n="subscriberComments">
+            </a>
+        </s>
+    </c>
+    <s>
+        <a n="subscriberComments">
+            <c n="CAPS">
+                <s>
+                    <c n="Consumer">
+                        <s>
+                        </s>
+                    </c>
+                </s>
+            </c>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211021</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211021</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД по городу Санкт-Петербургу</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20170612</a>
+                <a n="primaryIDIssuePlace">ГОВД по городу Санкт-Петербург</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211020</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211020</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211014</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211014</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211013</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211013</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211012</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211012</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211012</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211012</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211012</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211012</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211012</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211012</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211012</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211012</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211011</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211011</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211011</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211011</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211011</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211011</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211011</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211011</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211008</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211008</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211007</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211007</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Николай</a>
+                <a n="name2">Константинович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Петров</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20211007</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20211007</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210823</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210823</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Иван</a>
+                <a n="name2">Иванович</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20200504</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Иванов</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210504</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210504</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москвв</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">говд</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20130514</a>
+                <a n="primaryIDIssuePlace">говд</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210502</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210503</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москвв</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">говд</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20130514</a>
+                <a n="primaryIDIssuePlace">говд</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210502</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210503</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">МАРИНА</a>
+                <a n="name2">ВИТАЛЬЕВНА</a>
+                <a n="placeOfBirth">ГПМДОР</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ЕОПНСРОП</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180101</a>
+                <a n="primaryIDIssuePlace">РОССИЯ</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">КАН</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">02</a>
+            <a n="applicationDate">20210329</a>
+            <a n="applicationNumber">WPS2021290314173510</a>
+            <a n="cbrFinanceType">022</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210329</a>
+            <a n="financeType">02</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210322</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210322</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20180320</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210322</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210322</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20200309</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210319</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210319</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20200309</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20210319</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210319</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">МАРИНА</a>
+                <a n="name2">ВИТАЛЬЕВНА</a>
+                <a n="placeOfBirth">МОСКВА</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ТП УФМС РОССИИ</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20001002</a>
+                <a n="primaryIDIssuePlace">РОССИЯ</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">КАН</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">02</a>
+            <a n="applicationDate">20200610</a>
+            <a n="applicationNumber">EUR2020100611375420</a>
+            <a n="cbrFinanceType">230</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20210211</a>
+            <a n="financeType">23</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20161220</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20201211</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20201211</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20161220</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20201211</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20201211</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20161220</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20201211</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20201211</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">
+                </a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">-</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20140901</a>
+                <a n="primaryIDIssuePlace">-</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+                <a n="comments">-</a>
+                <a n="currency">RUB</a>
+                <a n="dateOfDecision">20201022</a>
+                <a n="decisionAmount">
+                </a>
+                <a n="decisionEndDate">20201111</a>
+                <a n="decisionReason">01</a>
+                <a n="streamID">
+                </a>
+                <a n="typeOfDecision">01</a>
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">01</a>
+            <a n="applicationDate">20201022</a>
+            <a n="applicationNumber">11111</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20201022</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальенва</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20171002</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20201007</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20201007</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4570743313</a>
+                <a n="primaryIDAuthority">ТО УФМС РОССИИ</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20150101</a>
+                <a n="primaryIDIssuePlace">ТО УФМС РОССИИ</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">03</a>
+            <a n="applicationDate">20200406</a>
+            <a n="applicationNumber">00000000004295034100</a>
+            <a n="cbrFinanceType">026</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20200406</a>
+            <a n="financeType">02</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4570743313</a>
+                <a n="primaryIDAuthority">ГОВД</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20101112</a>
+                <a n="primaryIDIssuePlace">ГОВД</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20200202</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20200202</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">
+                </a>
+                <a n="primaryID">4506743313</a>
+                <a n="primaryIDAuthority">-</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20140901</a>
+                <a n="primaryIDIssuePlace">-</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">01</a>
+            <a n="applicationDate">20171125</a>
+            <a n="applicationNumber">123456748</a>
+            <a n="cbrFinanceType">024</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20171129</a>
+            <a n="financeType">02</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">фвц</a>
+                <a n="primaryID">4555454545</a>
+                <a n="primaryIDAuthority">вфц</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20130101</a>
+                <a n="primaryIDIssuePlace">вфц</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170927</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170927</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">фвц</a>
+                <a n="primaryID">4555454545</a>
+                <a n="primaryIDAuthority">вфц</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20130101</a>
+                <a n="primaryIDIssuePlace">вфц</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170927</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170927</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Место</a>
+                <a n="primaryID">4555454545</a>
+                <a n="primaryIDAuthority">Орган</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20101010</a>
+                <a n="primaryIDIssuePlace">Российская Федерация</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170803</a>
+            <a n="applicationNumber">D100131</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170803</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Место</a>
+                <a n="primaryID">4555454545</a>
+                <a n="primaryIDAuthority">Орган</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20101010</a>
+                <a n="primaryIDIssuePlace">Российская Федерация</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170803</a>
+            <a n="applicationNumber">D100131</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170803</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">МОСКВА</a>
+                <a n="primaryID">4507743314</a>
+                <a n="primaryIDAuthority">ОУФМС РОССИИ ПО РАЙОНУ ДМИТРОВСКИЙ ПО ГОР. МОСКВЕ</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20170109</a>
+                <a n="primaryIDIssuePlace">ОУФМС РОССИИ ПО РАЙОНУ ДМИТРОВ</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">03</a>
+            <a n="applicationDate">20170331</a>
+            <a n="applicationNumber">00000000000551199080</a>
+            <a n="cbrFinanceType">028</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170412</a>
+            <a n="financeType">03</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4507743314</a>
+                <a n="primaryIDAuthority">УФМС Гондураса</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20150101</a>
+                <a n="primaryIDIssuePlace">УФМС Гондураса</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">03</a>
+            <a n="applicationDate">20170407</a>
+            <a n="applicationNumber">00000000000551205440</a>
+            <a n="cbrFinanceType">234</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170407</a>
+            <a n="financeType">03</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">бошцерпж</a>
+                <a n="primaryID">4502743313</a>
+                <a n="primaryIDAuthority">ОУФМС г. Москва</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20151216</a>
+                <a n="primaryIDIssuePlace">ОУФМС г. Москва</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">03</a>
+            <a n="applicationDate">20170221</a>
+            <a n="applicationNumber">00000000000551162860</a>
+            <a n="cbrFinanceType">232</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170227</a>
+            <a n="financeType">03</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4502743313</a>
+                <a n="primaryIDAuthority">ОУФМС г. Москва</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20151226</a>
+                <a n="primaryIDIssuePlace">Российская Федерация</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170221</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170221</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4502743313</a>
+                <a n="primaryIDAuthority">ОВД г.МОСКВА</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20151226</a>
+                <a n="primaryIDIssuePlace">Российская Федерация</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20170112</a>
+            <a n="applicationNumber">0</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20170112</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+            <s>
+                <c n="Consumer">
+                    <s>
+                    </s>
+                </c>
+            </s>
+        </a>
+        <s>
+            <s>
+                <a n="applicantType">01</a>
+                <a n="dateOfBirth">19800101</a>
+                <a n="name1">Марина</a>
+                <a n="name2">Витальевна</a>
+                <a n="placeOfBirth">Москва</a>
+                <a n="primaryID">4508743313</a>
+                <a n="primaryIDAuthority">Отдел УФМС по г. Москва в ЦАО</a>
+                <a n="primaryIDExpiry">
+                </a>
+                <a n="primaryIDIssueDate">20070501</a>
+                <a n="primaryIDIssuePlace">Российская Федерация</a>
+                <a n="primaryIDType">01</a>
+                <a n="surname">Кан</a>
+            </s>
+
+            <s n="Decision">
+            </s>
+            <s n="SubscriberDetails">
+                <a n="subscriberID">
+                </a>
+                <a n="subscriberName">
+                </a>
+                <a n="subscriberSpecStatusStartDate">
+                </a>
+                <a n="subscriberSpecialStatus">
+                </a>
+                <a n="subscriberType">01</a>
+            </s>
+            <a n="amountOfFinance">
+            </a>
+            <a n="applicationChannel">99</a>
+            <a n="applicationDate">20161202</a>
+            <a n="applicationNumber">D44359</a>
+            <a n="cbrFinanceType">999</a>
+            <a n="creditLimit">
+            </a>
+            <a n="enquiryDate">20161202</a>
+            <a n="financeType">01</a>
+            <a n="reason">01</a>
+            <a n="streamID">
+            </a>
+        </s>
+        <a n="streamID">
+
+            <c n="ExtDB1">
+            </c>
+            <c n="ExtDB2">
+            </c>
+            <c n="NameIDHistory">
+            </c>
+            <s n="Summary">
+            </s>
+        </a>
+        <s n="Summary">
+            <a n="CAISDistribution1">0</a>
+            <a n="CAISDistribution2">1</a>
+            <a n="CAISDistribution3">0</a>
+            <a n="CAISDistribution4">0</a>
+            <a n="CAISDistribution5">0</a>
+            <a n="CAISDistribution5Plus">0</a>
+            <a n="CAISRecordsGuarantor">0</a>
+            <a n="CAISRecordsGuarantorRecip">0</a>
+            <a n="CAISRecordsJoint">0</a>
+            <a n="CAISRecordsJointRecip">0</a>
+            <a n="CAISRecordsOwner">2</a>
+            <a n="CAISRecordsOwnerRecip">2</a>
+            <a n="CAISRecordsReferee">0</a>
+            <a n="CAISRecordsRefereeRecip">0</a>
+            <a n="CAPSDistribution1">0</a>
+            <a n="CAPSDistribution2">2</a>
+            <a n="CAPSDistribution3">0</a>
+            <a n="CAPSDistribution4">0</a>
+            <a n="CAPSDistribution5">0</a>
+            <a n="CAPSDistribution5Plus">1</a>
+            <a n="CAPSLast12MonthsGuarantor">0</a>
+            <a n="CAPSLast12MonthsJoint">0</a>
+            <a n="CAPSLast12MonthsOwner">49</a>
+            <a n="CAPSLast12MonthsReferee">0</a>
+            <a n="CAPSLast3MonthsGuarantor">0</a>
+            <a n="CAPSLast3MonthsJoint">0</a>
+            <a n="CAPSLast3MonthsOwner">0</a>
+            <a n="CAPSLast3MonthsReferee">0</a>
+            <a n="CAPSLast6MonthsGuarantor">0</a>
+            <a n="CAPSLast6MonthsJoint">0</a>
+            <a n="CAPSLast6MonthsOwner">0</a>
+            <a n="CAPSLast6MonthsReferee">0</a>
+            <a n="CAPSRecordsGuarantor">0</a>
+            <a n="CAPSRecordsGuarantorBeforeFilter">0</a>
+            <a n="CAPSRecordsJoint">0</a>
+            <a n="CAPSRecordsJointBeforeFilter">0</a>
+            <a n="CAPSRecordsOwner">73</a>
+            <a n="CAPSRecordsOwnerBeforeFilter">73</a>
+            <a n="CAPSRecordsReferee">0</a>
+            <a n="CAPSRecordsRefereeBeforeFilter">0</a>
+            <a n="PotentialMonthlyInstalmentsAllButOwner">0</a>
+            <a n="PotentialMonthlyInstalmentsOwner">0</a>
+            <a n="PotentialOutstandingBalanceAllButOwner">0</a>
+            <a n="PotentialOutstandingBalanceOwner">0</a>
+            <a n="TotalMonthlyInstalmentsAllButOwner">0</a>
+            <a n="TotalMonthlyInstalmentsOwner">0</a>
+            <a n="TotalOutstandingBalanceAllButOwner">0</a>
+            <a n="TotalOutstandingBalanceOwner">0</a>
+            <a n="WorstCurrentPayStatusGuarantor">
+            </a>
+            <a n="WorstCurrentPayStatusJoint">
+            </a>
+            <a n="WorstCurrentPayStatusOwner">
+            </a>
+            <a n="WorstCurrentPayStatusReferee">
+            </a>
+            <a n="WorstEverPayStatusGuarantor">
+            </a>
+            <a n="WorstEverPayStatusJoint">
+            </a>
+            <a n="WorstEverPayStatusOwner">W</a>
+            <a n="WorstEverPayStatusReferee">
+            </a>
+            <a n="checkOther1">
+            </a>
+            <a n="checkOther10">
+            </a>
+            <a n="checkOther11">
+            </a>
+            <a n="checkOther12">
+            </a>
+            <a n="checkOther13">
+            </a>
+            <a n="checkOther14">
+            </a>
+            <a n="checkOther15">
+            </a>
+            <a n="checkOther16">
+            </a>
+            <a n="checkOther17">
+            </a>
+            <a n="checkOther18">
+            </a>
+            <a n="checkOther19">
+            </a>
+            <a n="checkOther2">
+            </a>
+            <a n="checkOther20">
+            </a>
+            <a n="checkOther3">
+            </a>
+            <a n="checkOther4">
+            </a>
+            <a n="checkOther5">
+            </a>
+            <a n="checkOther6">
+            </a>
+            <a n="checkOther7">
+            </a>
+            <a n="checkOther8">
+            </a>
+            <a n="checkOther9">
+            </a>
+        </s>
+        <a n="checkOther9">
+            <c n="Warnings">
+            </c>
+        </a>
+        <a>WARNING_NO_INCOME_AMOUNT_ENTERED</a>
+        <a>WARNING_NUM_OF_INSTALMENT_FREQ_EXCLUSIONS_1</a>
+
+    </s>
+
+    <c n="ValidationErrors">
+    </c>
+    <a n="errorCode">0</a>
+    <a n="responseDate">20220428105044</a>
+    <a n="streamID">39896065</a>
+</s>
