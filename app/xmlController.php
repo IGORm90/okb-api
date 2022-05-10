@@ -87,5 +87,25 @@ class XmlController {
         $newformat = date('Ymd',$time);
         return $newformat;
     }
+    
+        public function parseXml($xmlString){
+        $xml = simplexml_load_string($xmlString);
+        $userData = json_encode($xml);
+        $newArr = json_decode($userData, true);
+        return $newArr;
+    }
+
+    public function getDataFromXml($encodeFilePath){
+        $encodededData = json_decode(file_get_contents($encodeFilePath));
+        return $encodededData;
+
+        // $parser = xml_parser_create();
+        // xml_parse_into_struct($parser, $xmlstring, $vals, $index);
+        // xml_parser_free($parser);
+
+        // echo '<pre>';
+        // var_dump($vals);
+        // echo '</pre>';
+    }
 
 }
