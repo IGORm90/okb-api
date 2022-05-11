@@ -95,17 +95,25 @@ class XmlController {
         return $newArr;
     }
 
-    public function getDataFromXml($encodeFilePath){
-        $encodededData = json_decode(file_get_contents($encodeFilePath));
-        return $encodededData;
+    public function getDataFromXml($xmlstring, $encodeFilePath){
+        $translateJsonFile = file_get_contents($encodeFilePath);
+        $jsonArray = json_decode($translateJsonFile, true);
+        $keys = array_keys($jsonArray);
+        
+        $parsedData = [];
 
-        // $parser = xml_parser_create();
-        // xml_parse_into_struct($parser, $xmlstring, $vals, $index);
-        // xml_parser_free($parser);
+        $parser = xml_parser_create();
+        xml_parse_into_struct($parser, $xmlstring, $vals, $index);
+        xml_parser_free($parser);
 
-        // echo '<pre>';
-        // var_dump($vals);
-        // echo '</pre>';
+        foreach($vals as $val){
+            if(in_array($val['attributes']['N'], $keys)){
+                $parsedData[$val['attributes']['N']] = ['title' => $jsonArray[$val['attributes']['N']], 'value' => $val['value']];
+            }
+        }
+
+        return $parsedData;
+
     }
 
 }
